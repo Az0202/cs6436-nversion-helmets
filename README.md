@@ -1,7 +1,7 @@
 # N-Version Model Evaluation & Visualization
 
 <p align="center">
-  <img src="assets/banner.png" alt="N-Version Head/Helmet Detection for PPE Safety on Construction Sites" width="600">
+  <img src="assets/ReadMe_icon.png" alt="N-Version Head/Helmet Detection for PPE Safety on Construction Sites" width="600">
 </p>
 
 This repository contains utilities and demos for evaluating and comparing
