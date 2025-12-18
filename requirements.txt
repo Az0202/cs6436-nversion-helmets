@@ -1,0 +1,15 @@
+# Core
+numpy>=1.21
+pandas>=1.4
+
+# Plotting
+matplotlib>=3.5
+
+# Video / image demos
+opencv-python>=4.6
+
+# Utilities
+tqdm>=4.64
+
+# Optional but commonly used
+scikit-learn>=1.1
