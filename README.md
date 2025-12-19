@@ -70,6 +70,18 @@ pip install -r requirements.txt
 
 ## Data Overview
 
+### Dataset
+
+This project uses the **Hard Hat Detection** dataset from Kaggle:
+
+🔗 **[Hard Hat Detection Dataset](https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection)**
+
+The dataset contains images of construction workers with annotations for:
+- `helmet` - workers wearing hardhats
+- `head` - workers without hardhats
+
+> **Note:** The images are not included in this repository. Download the dataset from Kaggle to run the full pipeline.
+
 ### Dataset configuration
 
 - `data/data_hardhat_2class.yaml`
