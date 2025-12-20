@@ -34,8 +34,8 @@ programmatically or from notebooks.
 │   └── preds_majority_yolov8n_yolov8s_frcnn_val.json
 │
 ├── notebooks/
-│   ├── demo_CS_6434.ipynb
-│   └── New_CS_6433_project.ipynb
+│   ├── CS_6433_project_code1.ipynb
+│   └── demo_CS_6434.ipynb
 │
 ├── src/
 │   ├── paths_config.py
@@ -248,13 +248,28 @@ This script:
 
 ## Notebooks
 
-The `notebooks/` directory contains exploratory and demo notebooks used during
-development, including:
-- qualitative inspection
-- metric comparison
-- coursework experiments
+The `notebooks/` directory contains the main analysis and demo notebooks:
 
-They are included for transparency and reproducibility.
+| Notebook | Description |
+|----------|-------------|
+| `CS_6433_project_code1.ipynb` | Main project code - model training, evaluation, and metrics |
+| `demo_CS_6434.ipynb` | Video demonstration and qualitative analysis |
+
+### 🚀 Quick Start with Google Colab
+
+**Don't want to clone the repo and set up locally?** You can run the notebooks directly in Google Colab:
+
+1. Download the notebook you want:
+   - [`CS_6433_project_code1.ipynb`](notebooks/CS_6433_project_code1.ipynb)
+   - [`demo_CS_6434.ipynb`](notebooks/demo_CS_6434.ipynb)
+
+2. Go to [Google Colab](https://colab.research.google.com/)
+
+3. Click **File → Upload notebook** and select the downloaded file
+
+4. Run the cells!
+
+> **Note:** Some cells may require uploading data files or adjusting paths for the Colab environment.
 
 ---
 
