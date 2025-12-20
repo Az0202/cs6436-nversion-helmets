@@ -255,7 +255,7 @@ The `notebooks/` directory contains the main analysis and demo notebooks:
 | `CS_6433_project_code1.ipynb` | Main project code - model training, evaluation, and metrics |
 | `demo_CS_6434.ipynb` | Video demonstration and qualitative analysis |
 
-### 🚀 Quick Start with Google Colab
+### Quick Start with Google Colab
 
 **Don't want to clone the repo and set up locally?** You can run the notebooks directly in Google Colab:
 
